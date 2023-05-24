@@ -121,6 +121,28 @@ ul {
     text-align: end
 }
 
+.signup-box {
+    display: flex;
+    margin: 64px 264px;
+    padding: 32px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    justify-content: center;
+    gap: 32px;
+}
+
+.signup-button {
+    width: 128px;
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.signup-header {
+    font-weight: bold;
+}
+
 .footer {
     background-color: #1F2937;
     text-align: center;
